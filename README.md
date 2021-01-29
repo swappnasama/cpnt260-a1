@@ -2,9 +2,9 @@
 
 **Author and Repo maintainer:** Swapna Sama
 
-**Repo :**
+**Repo :** [https://github.com/swappnasama/cpnt260-a1.git](https://github.com/swappnasama/cpnt260-a1.git)
 
-**Site :**
+**Site :** [https://swappnasama.github.io/cpnt260-a1/](https://swappnasama.github.io/cpnt260-a1/)
 
 **Discription :** Beautiful Homes is interior designing and home staging company. They want to build a e-marketing website to expand their customer range. Website describes all the information about company's contact information, Employee, Gallery and testimonials.
 
